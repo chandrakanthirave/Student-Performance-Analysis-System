@@ -1,0 +1,16 @@
+USN,Name,Gender,Department,Age,Attendance,Maths,Science,English
+101,Rahul,Male,CSE,20,94,95,90,92
+102,Sneha,Female,ISE,21,89,88,75,81
+103,Arjun,Male,ECE,20,85,70,80,75
+104,Priya,Female,CSE,21,98,98,95,99
+105,Rohan,Male,ME,22,18,15,20,38
+106,Anjali,Female,CSE,20,96,90,92,91
+107,Kiran,Male,EEE,21,72,55,60,58
+108,Meera,Female,ISE,20,91,85,89,84
+109,Vikram,Male,ECE,22,87,78,82,80
+110,Asha,Female,CSE,21,99,93,94,95
+111,Nikhil,Male,ISE,20,83,74,76,72
+112,Kavya,Female,ECE,21,95,91,88,93
+113,Aman,Male,ME,22,80,69,73,71
+114,Divya,Female,EEE,20,97,96,94,97
+115,Suresh,Male,CSE,21,88,82,79,85
